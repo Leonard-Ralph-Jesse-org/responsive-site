@@ -1,0 +1,10 @@
+.logo {
+    height: 105px;
+    width: 105px;
+}
+.codeup {
+    display: none;
+}
+@media screen and (max-width:500px) {
+
+}
